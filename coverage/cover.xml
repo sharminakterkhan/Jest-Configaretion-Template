@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="1" failures="0" errors="0" time="1.007">
+  <testsuite name="./src/sum.js" errors="0" failures="0" skipped="0" timestamp="2023-09-28T09:22:33" time="0.429" tests="1">
+    <testcase classname="./src/sum.js add two numbers" name="./src/sum.js add two numbers" time="0.002">
+    </testcase>
+  </testsuite>
+</testsuites>
